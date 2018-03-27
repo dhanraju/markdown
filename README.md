@@ -31,3 +31,6 @@ Tables and links:
 Plain text after table.
 
 **Plain text with bold.**
+
+Below is the image added.
+![Alt](./Beginners_guide_setting_up-git.jpg "Title")
