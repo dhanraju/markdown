@@ -29,4 +29,5 @@ Tables and links:
 | ci_cpp    |       1        | [link](https://github.com/dhanraju/ci_cpp) |
 
 Plain text after table.
+
 **Plain text with bold.**
