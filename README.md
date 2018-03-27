@@ -37,5 +37,5 @@ Below is the image added.
 ![Alt](./Beginners_guide_setting_up-git.jpg)
 
 Listing Repo details:
-- *Python* - [Repo link](https://github.com/dhanraju/python) - [Readme link](https://github.com/dhanraju/python/blob/master/README.md)
-- *ci_cpp* - [Repo link](https://github.com/dhanraju/ci_cpp) - [Readme link](https://github.com/dhanraju/ci_cpp/blob/master/README.md)
+- *Python - [Repo link](https://github.com/dhanraju/python) - [Readme link](https://github.com/dhanraju/python/blob/master/README.md)*
+- *ci_cpp* - [Repo link](https://github.com/dhanraju/ci_cpp) - [Readme link](https://github.com/dhanraju/ci_cpp/blob/master/README.md)*
