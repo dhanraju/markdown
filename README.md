@@ -25,8 +25,8 @@ Tables and links:
 -----------------
 | Repo Name | Num of folders | link to repo |
 | --------- |:--------------:| ------------:|
-| Python    |       15       | [link](https://github.com/dhanraju/python) [Readme link](https://github.com/dhanraju/python/blob/master/README.md)|
-| ci_cpp    |       1        | [link](https://github.com/dhanraju/ci_cpp) [Readme link](https://github.com/dhanraju/ci_cpp/blob/master/README.md)|
+| Python    |       15       | [link](https://github.com/dhanraju/python) - [Readme link](https://github.com/dhanraju/python/blob/master/README.md)|
+| ci_cpp    |       1        | [link](https://github.com/dhanraju/ci_cpp) - [Readme link](https://github.com/dhanraju/ci_cpp/blob/master/README.md)|
 
 Plain text after table.
 
